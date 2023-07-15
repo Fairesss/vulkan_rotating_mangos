@@ -10,5 +10,5 @@ Double rotating Mangos make with Vulkan
 - GLFW
 
 ## Build
-cd vulkan_rotating_mangos/
+cd vulkan_rotating_mangos/ ; 
 cmake -B ./build -DCMAKE_TOOLCHAIN_FILE=<path/to/vcpkg.cmake> . 
